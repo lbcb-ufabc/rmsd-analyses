@@ -24,6 +24,7 @@ Este pipeline foi desenvolvido para:
 .
 ├── rmsd_calc.tcl          # Cálculo do RMSD utilizando VMD
 ├── rmsd_histograma.py     # Análise estatística dos valores de RMSD
+├── README-en.md           # README em inglês
 └── README.md
 ```
 ---
